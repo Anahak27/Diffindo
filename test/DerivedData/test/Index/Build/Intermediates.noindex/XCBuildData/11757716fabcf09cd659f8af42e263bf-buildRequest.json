@@ -1,0 +1,60 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "72789673d79dae0c3bbc7d197b01513190de4a70bc41163d1ed07c7ac4ed1440"
+    }
+  ],
+  "containerPath" : "/Users/ethankahana/Desktop/Diffindo/test/test.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.1",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/ethankahana/Desktop/Diffindo/test/DerivedData/test/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/ethankahana/Desktop/Diffindo/test/DerivedData/test/Index/Build/Products",
+      "derivedDataPath" : "/Users/ethankahana/Desktop/Diffindo/test/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ethankahana/Desktop/Diffindo/test/DerivedData/test/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ethankahana/Desktop/Diffindo/test/DerivedData/test/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/ethankahana/Desktop/Diffindo/test/DerivedData/test/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/ethankahana/Desktop/Diffindo/test/DerivedData/test/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
